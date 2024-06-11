@@ -14,7 +14,7 @@ This application name is "Second Luck". Second Luck is a app for trying our luck
 
 ## ScreenRecord
 
-    https://github.com/rohithvijayan774/KBJN_Test
+    https://drive.google.com/file/d/1eNLwHkdzNXtk1wNpl7tYi6Gc1_6ZxqQx/view?usp=drive_link
 
 
 ## Getting Started
