@@ -1,6 +1,6 @@
 # kjbn_test
 
-This project name is "Second Luck". Second Luck is a app for trying our luck by generating a random number and matching that number with current second. This project is completely build with Dart and Flutter. I used "Provider" which is state management tool used for managing state.
+This application name is "Second Luck". Second Luck is a app for trying our luck by generating a random number and matching that number with current second. This project is completely build with Dart and Flutter. I used "Provider" which is state management tool used for managing state.
 
 
 ## Developer Details
@@ -13,7 +13,8 @@ This project name is "Second Luck". Second Luck is a app for trying our luck by 
 
 
 ## ScreenRecord
-![Second Luck](https://drive.google.com/file/d/1eNLwHkdzNXtk1wNpl7tYi6Gc1_6ZxqQx/view?usp=sharing)
+
+    https://github.com/rohithvijayan774/KBJN_Test
 
 
 ## Getting Started
