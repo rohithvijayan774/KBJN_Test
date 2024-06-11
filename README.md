@@ -4,11 +4,11 @@ A new Flutter project.
 
 ## Developer Details
 
-Name : Rohith Vijayan A -
-Email : rohithvijayan774@gmail.com -
-Phone : +919778386283 -
-Experience : 1.7 years -
-Location : Kozhikode, Kerala -
+**Name:** Rohith Vijayan A  
+**Email:** rohithvijayan774@gmail.com  
+**Phone:** +919778386283  
+**Experience:** 1.7 years  
+**Location:** Kozhikode, Kerala  
 
 
 ## Screenshots
