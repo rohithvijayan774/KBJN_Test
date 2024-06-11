@@ -1,6 +1,7 @@
 # kjbn_test
 
-A new Flutter project.
+This project name is "Second Luck". Second Luck is a app for trying our luck by generating a random number and matching that number with current second. This project is completely build with Dart and Flutter. I used "Provider" which is state management tool used for managing state.
+
 
 ## Developer Details
 
@@ -11,8 +12,8 @@ A new Flutter project.
 **Location:** Kozhikode, Kerala  
 
 
-## Screenshots
-![flutter-task-manager](https://user-images.githubusercontent.com/62181222/111222593-3f02b580-8606-11eb-89e1-c5c518f5ad96.jpg)
+## ScreenRecord
+![Second Luck](https://drive.google.com/file/d/1eNLwHkdzNXtk1wNpl7tYi6Gc1_6ZxqQx/view?usp=sharing)
 
 
 ## Getting Started
