@@ -14,7 +14,7 @@ This application name is "Second Luck". Second Luck is a app for trying our luck
 
 ## ScreenRecord
 
-    https://drive.google.com/file/d/1eNLwHkdzNXtk1wNpl7tYi6Gc1_6ZxqQx/view?usp=drive_link
+    https://drive.google.com/file/d/11KJ05VZ4B1CV-6C73vgKre4Lo0hCNQI1/view?usp=sharing
 
 
 ## Getting Started
